@@ -31,7 +31,7 @@ const data = [
             "The Adobe Analytics Challenge is a unique analytics-focused business case competition where university students are given the opportunity to use Adobe’s industry-leading analytics products and access to real-world data from leading organizations such as Nike, Major League Baseball, T‑Mobile, Starwood, Lenovo, Condé Nast, Comcast, Overstock.com, Backcountry.com, Sony PlayStation, and MGM Resort International. ",
         siteUrl: "https://www.adobeanalyticschallenge.com/",
         YouTube: "https://www.youtube.com/watch?v=1fNx08ONKkM",
-    },
+    },s
     {
         
         title: "Adobe Express Community",
@@ -48,6 +48,14 @@ const data = [
         siteUrl:
             "https://research.adobe.com/adobe-india-women-in-technology-scholarship/",
         YouTube: "https://www.youtube.com/watch?v=eF6ek2j5gfE",
+    },
+        {
+        
+        title: "MSME Hackathon 2.0 (Theme based)",
+        about:
+            "The objective of the scheme is to promote and support untapped creativity and to promote adoption of latest technologies in MSMEs that seek the validation of their ideas at the proof-of-concept level. The scheme also supports engagement with enablers who will advise such MSMEs in expanding the business by supporting them in design, strategy and execution. ",
+        siteUrl: "https://my.msme.gov.in/inc/",
+        YouTube: "https://youtu.be/kAVt0Ct2NpM",
     },
     {
         title: "Advent of Code",
